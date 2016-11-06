@@ -1,9 +1,13 @@
 {
-  "name": "dothis",
+  "name": "react-redux-example",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"
+  },
+  "repository":{
+    "type" : "git",
+    "url" : "https://github.com/MillerJL/react-redux-example"
   },
   "dependencies": {
     "react": "^15.3.2",
