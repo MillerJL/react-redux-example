@@ -1,4 +1,4 @@
-# React-Redux-Boilerplate
+# React-Redux-Example
 Learning react and redux
 ## About
 This little example makes use of:
